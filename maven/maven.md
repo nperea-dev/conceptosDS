@@ -62,5 +62,7 @@ Una vez definidos correctamente todos los Artefactos que necesitamos, Maven nos 
 
 El uso de Maven es a día de hoy una necesitad en cualquier proyecto Java/Java EE de cierta entidad.
 
-[^footnoteName]:tomado de:[https://www.genbeta.com/desarrollo/que-es-maven [http://panamahitek.com/que-es-maven-y-para-que-se-utiliza/]
+tomado de:
+https://www.genbeta.com/desarrollo/que-es-maven 
+http://panamahitek.com/que-es-maven-y-para-que-se-utiliza/]
 
