@@ -23,6 +23,7 @@ Maven solventa esta problema a traves del concepto de *Artefacto.* Un Artefacto 
 ## Artefactos y POM
 Para definir un Artefacto necesitamos crear un fichero POM.xml (Proyect Object Model) que es el encargado de almacenar toda la información que hemos comentado anteriormente:
 
+```
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
@@ -41,6 +42,8 @@ Para definir un Artefacto necesitamos crear un fichero POM.xml (Proyect Object M
 
 </dependencies>
 </project>
+
+```
 
 La estructura del fichero puede llegar a ser muy compleja y puede llegar a depender de otros POM. En este ejemplo estamos viendo el fichero más sencillo posible. En el se define el nombre del Artefacto (artifactID) el tipo de empaquetado (jar) y también las dependencias que tiene (log4j). De esta manera nuestra librería queda definida de una forma mucho más clara.
 
