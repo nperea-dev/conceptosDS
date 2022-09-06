@@ -52,11 +52,11 @@ After this, many people referred to it as Postgres since it's less prone to conf
 
 * [Crear una base de datos en Supabase.](https://youtu.be/l8114lXm8Eo)
 
-# entidades de springboot
-https://docs.oracle.com/javaee/6/tutorial/doc/bnbqa.html#:%7E:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes.
-whta is a java entity
+* [juego para aprender SQL](https://mystery.knightlab.com/)
 
-[juego para aprender SQL](https://mystery.knightlab.com/)
+
+# entidades de springboot
+[whta is a java entity](https://docs.oracle.com/javaee/6/tutorial/doc/bnbqa.html#:%7E:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes)
 
 [repositorio de springboot](https://zetcode.com/springboot/repository/#:~:text=A%20repository%20is%20a%20mechanism,be%20autodetected%20through%20classpath%20scanning)
 
