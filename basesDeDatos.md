@@ -52,11 +52,20 @@ After this, many people referred to it as Postgres since it's less prone to conf
 
 * [Crear una base de datos en Supabase.](https://youtu.be/l8114lXm8Eo)
 
+* [Java Spring Boot Instalación de dependencias](https://youtu.be/A0Z9fmWFfNA)
+
+* [Java Spring Boot de clases a entidades.](https://youtu.be/n66i7B47sx8)
+
+* [Usar un repositorio para leer datos.](https://youtu.be/J82dHQsCv2Q)
+
+* [Usar un repositorio para crear datos](https://youtu.be/fvz_M4VFcqY)
+
 * [juego para aprender SQL](https://mystery.knightlab.com/)
 
 
 # entidades de springboot
-[whta is a java entity](https://docs.oracle.com/javaee/6/tutorial/doc/bnbqa.html#:%7E:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes)
+* [what is a java entity?](https://docs.oracle.com/javaee/6/tutorial/doc/bnbqa.html#:%7E:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes)
+[what is Entity en Spring JPA?](https://stackoverflow.com/questions/63414381/what-is-entity-in-spring-jpa#:~:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes.)
 
 [repositorio de springboot](https://zetcode.com/springboot/repository/#:~:text=A%20repository%20is%20a%20mechanism,be%20autodetected%20through%20classpath%20scanning)
 
