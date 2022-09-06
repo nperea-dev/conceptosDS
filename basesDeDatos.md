@@ -44,8 +44,9 @@ In 1994, Postgres95 was built on top of POSTGRES code, adding an SQL language in
 
 After this, many people referred to it as Postgres since it's less prone to confusion. Supabase is all about simplicity, so we also refer to it as Postgres.
 ## videos misiontic
-[generalidades de base de datos](https://youtu.be/PWO2ZREcS7s)
-[Crear una base de datos en Supabase](https://youtu.be/l8114lXm8Eo)
+* [generalidades de base de datos.](https://youtu.be/PWO2ZREcS7s)
+
+* [Crear una base de datos en Supabase.](https://youtu.be/l8114lXm8Eo)
 
 # entidades de springboot
 https://docs.oracle.com/javaee/6/tutorial/doc/bnbqa.html#:%7E:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes.
