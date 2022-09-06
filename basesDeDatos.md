@@ -24,9 +24,13 @@ Dos detalles a destacar de PostgreSQL es que posee data types (tipos de datos) a
 
 ## Comparación de PostgreSQL vs MySQL
 
-En lo que refiere a las consultas o queries, las soportadas por MySQL tienden a ser más simples, mientras que PostgreSQL soporta queries más complejas, lo cual le ha válido el título del sistema de bases de datos relacionales más avanzado del mercado.
-En términos de rendimiento cada uno tiene su situación para brillar: MySQL es mejor si se manejan bajos volúmenes de datos, es decir, si tenemos bases de datos pequeñas o medianas a las cuales se hagan una cantidad de consultas no muy alta. Por su parte, PostgreSQL es mejor a la hora de manejar volúmenes de datos grandes y se suele usar más cuando se tienen bases de datos grandes y con alta cantidad de consultas.
-Si miramos el cumplimiento de ACID nos toparemos conque MySQL no lo soporta al 100%, sino solamente las tablas que hagan uso de NDB Cluster o InnoDB, mientras que PostgreSQL sí lo soporta completo en todos los casos.
+- En lo que refiere a las consultas o queries, las soportadas por MySQL tienden a ser más simples, 
+mientras que PostgreSQL soporta queries más complejas, lo cual le ha válido el título del sistema de bases de datos relacionales más avanzado del mercado.
+
+- En términos de rendimiento cada uno tiene su situación para brillar: MySQL es mejor si se manejan bajos volúmenes de datos, es decir, si tenemos bases de datos pequeñas o medianas a las cuales se hagan una cantidad de consultas no muy alta. 
+Por su parte, PostgreSQL es mejor a la hora de manejar volúmenes de datos grandes y se suele usar más cuando se tienen bases de datos grandes y con alta cantidad de consultas.
+- Si miramos el cumplimiento de ACID nos toparemos conque MySQL no lo soporta al 100%, sino solamente las tablas que hagan uso de NDB Cluster o InnoDB, 
+mientras que PostgreSQL sí lo soporta completo en todos los casos.
 
 **Resumiendo**, por ahora ambos son gratis, así que debemos elegir basándonos en rendimiento más que nada: si quieres un sistema para bases de datos medianas o pequeñas y consultas no muy complejas ni muy abundantes ve por MySQL, de lo contrario PostgreSQL es mejor opción si vas a manejar un volumen notable de datos.
 
@@ -52,14 +56,8 @@ After this, many people referred to it as Postgres since it's less prone to conf
 https://docs.oracle.com/javaee/6/tutorial/doc/bnbqa.html#:%7E:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes.
 whta is a java entity
 
+[juego para aprender SQL](https://mystery.knightlab.com/)
 
+[repositorio de springboot](https://zetcode.com/springboot/repository/#:~:text=A%20repository%20is%20a%20mechanism,be%20autodetected%20through%20classpath%20scanning)
 
-
-
-[https://mystery.knightlab.com/](https://stackoverflow.com/questions/63414381/what-is-entity-in-spring-jpa#:~:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes.)
-
-repositorio de springboot
-https://zetcode.com/springboot/repository/#:~:text=A%20repository%20is%20a%20mechanism,be%20autodetected%20through%20classpath%20scanning.
-
-working with springboot repositories
-https://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/html/repositories.html
+[working with springboot repositories](https://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/html/repositories.html)
