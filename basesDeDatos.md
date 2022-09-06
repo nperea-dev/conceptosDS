@@ -30,15 +30,30 @@ Si miramos el cumplimiento de ACID nos toparemos conque MySQL no lo soporta al 1
 
 **Resumiendo**, por ahora ambos son gratis, así que debemos elegir basándonos en rendimiento más que nada: si quieres un sistema para bases de datos medianas o pequeñas y consultas no muy complejas ni muy abundantes ve por MySQL, de lo contrario PostgreSQL es mejor opción si vas a manejar un volumen notable de datos.
 
-https://blog.infranetworking.com/servidor-postgresql/
-Introducción a Supabase
-https://supabase.com/docs/guides/database
 
+# [Introducción a Supabase](https://supabase.com/docs/guides/database)
 
+Supabase is an open source Firebase alternative providing all the backend features you need to build a product. You can use it completely, or just the features you need.
 
-entidades de springboot
+Start a project with the [hosted](https://app.supabase.com/) platform or learn how to [host Supabase](https://supabase.com/docs/guides/hosting/overview) yourself.
+
+## Postgres or PostgreSQL?
+PostgreSQL the database was derived from the POSTGRES Project, a package written at the University of California at Berkeley in 1986. This package included a query language called "PostQUEL".
+
+In 1994, Postgres95 was built on top of POSTGRES code, adding an SQL language interpreter as a replacement for PostQUEL. Eventually, Postgres95 was renamed to PostgreSQL to reflect the SQL query capability.
+
+After this, many people referred to it as Postgres since it's less prone to confusion. Supabase is all about simplicity, so we also refer to it as Postgres.
+## videos misiontic
+[generalidades de base de datos](https://youtu.be/PWO2ZREcS7s)
+[]()
+
+# entidades de springboot
 https://docs.oracle.com/javaee/6/tutorial/doc/bnbqa.html#:%7E:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes.
 whta is a java entity
+
+
+
+
 
 [https://mystery.knightlab.com/](https://stackoverflow.com/questions/63414381/what-is-entity-in-spring-jpa#:~:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes.)
 
