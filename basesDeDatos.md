@@ -52,7 +52,7 @@ After this, many people referred to it as Postgres since it's less prone to conf
 
 * [Crear una base de datos en Supabase.](https://youtu.be/l8114lXm8Eo)
 
-* [Java Spring Boot Instalación de dependencias](https://youtu.be/A0Z9fmWFfNA)
+* [Java Spring Boot Instalación de dependencias](https://youtu.be/A0Z9fmWFfNA?t=17)
 
 * [Java Spring Boot de clases a entidades.](https://youtu.be/n66i7B47sx8)
 
