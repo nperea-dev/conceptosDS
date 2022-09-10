@@ -1,7 +1,7 @@
 
-# [¿Qué es PostgreSQL?](https://blog.infranetworking.com/servidor-postgresql/)
+# **[¿Qué es PostgreSQL?](https://blog.infranetworking.com/servidor-postgresql/)**
 
-## Para qué sirve, características e instalación.
+## **Para qué sirve, características e instalación.**
 
 Es un sistema de código abierto de administración de bases de datos del tipo relacional, aunque también es posible ejecutar consultas que sean no relaciones. En este sistema, las consultas relacionales se basan en SQL, mientras que las no relacionales hacen uso de JSON.
 
@@ -14,7 +14,7 @@ Es un sistema de código abierto de administración de bases de datos del tipo r
 
 Dos detalles a destacar de PostgreSQL es que posee data types (tipos de datos) avanzados y permite ejecutar optimizaciones de rendimiento avanzadas, que son características que por lo general solo se ven en sistemas de bases de datos comerciales, como por ejemplo SQL Server de Microsoft u Oracle de la compañía homónima.
 
-## *Cómo administrar PostgreSQL mediante interfaz gráfica.*
+## **Cómo administrar PostgreSQL mediante interfaz gráfica.**
 
 **pgAdmin:** es probablemente el gestor de PostgreSQL más conocido y utilizado del mundo. Es fácil de utilizar, intuitivo y compatible con gran cantidad de sistemas operativos, además claro de ser gratuito. Estas características han hecho que se vuelva una de las herramientas más utilizadas a la hora de administrar bases de datos en Postgres. Inicialmente era conocido como pgManager pero con el paso del tiempo cambió de nombre. Su versión más reciente es pgAdmin 4 y podemos correrlo en diversos entornos como Windows, Linux y macOS.
 
@@ -22,7 +22,7 @@ Dos detalles a destacar de PostgreSQL es que posee data types (tipos de datos) a
 
 **DBeaver:** es un conocido programa para administrar bases de datos. No solo es compatible con Postgres, sino también con muchos motores más como por ejemplo MySQL, Oracle, SQL Server, MariaDB, etc. Este estupendo gestor está disponible para distintos sistemas operativos y es completamente gratuito. Sus características y funciones hace que sea una de las herramientas preferidas de gran cantidad de usuarios, desarrolladores y administradores de servidores de bases de datos que trabajan a diario con Postgres.
 
-## Comparación de PostgreSQL vs MySQL
+## **Comparación de PostgreSQL vs MySQL**
 
 - En lo que refiere a las consultas o queries, las soportadas por MySQL tienden a ser más simples, 
 mientras que PostgreSQL soporta queries más complejas, lo cual le ha válido el título del sistema de bases de datos relacionales más avanzado del mercado.
@@ -41,13 +41,13 @@ Supabase is an open source Firebase alternative providing all the backend featur
 
 Start a project with the [hosted](https://app.supabase.com/) platform or learn how to [host Supabase](https://supabase.com/docs/guides/hosting/overview) yourself.
 
-## Postgres or PostgreSQL?
+## **Postgres or PostgreSQL?**
 PostgreSQL the database was derived from the POSTGRES Project, a package written at the University of California at Berkeley in 1986. This package included a query language called "PostQUEL".
 
 In 1994, Postgres95 was built on top of POSTGRES code, adding an SQL language interpreter as a replacement for PostQUEL. Eventually, Postgres95 was renamed to PostgreSQL to reflect the SQL query capability.
 
 After this, many people referred to it as Postgres since it's less prone to confusion. Supabase is all about simplicity, so we also refer to it as Postgres.
-## videos misiontic
+## **Videos Misiontic**
 * [generalidades de base de datos.](https://youtu.be/PWO2ZREcS7s)
 
 * [Crear una base de datos en Supabase.](https://youtu.be/l8114lXm8Eo)
@@ -63,7 +63,7 @@ After this, many people referred to it as Postgres since it's less prone to conf
 * [juego para aprender SQL](https://mystery.knightlab.com/)
 
 
-# entidades de springboot
+# **Entidades de springboot**
 **[what is a java entity?](https://docs.oracle.com/javaee/6/tutorial/doc/bnbqa.html#:%7E:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes)**
 
 **[what is Entity en Spring JPA?](https://stackoverflow.com/questions/63414381/what-is-entity-in-spring-jpa#:~:text=An%20entity%20is%20a%20lightweight,entities%20can%20use%20helper%20classes.)**
