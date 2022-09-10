@@ -71,3 +71,44 @@ After this, many people referred to it as Postgres since it's less prone to conf
 **[repositorio de springboot](https://zetcode.com/springboot/repository/#:~:text=A%20repository%20is%20a%20mechanism,be%20autodetected%20through%20classpath%20scanning)**
 
 **[working with springboot repositories](https://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/html/repositories.html)**
+
+
+
+#teoria springboot gustavo peiretti
+
+1. [ENTIDADES](https://gustavopeiretti.com/spring-boot-entities-conceptos-iniciales/)
+
+2. [REPOSITORIOS](https://gustavopeiretti.com/spring-boot-componente-repository/)
+
+3. [SERVICIOS](https://gustavopeiretti.com/spring-boot-componente-service/)
+
+4. [CONTROLADORES]()
+
+5. [ESTREROTIPOS](https://gustavopeiretti.com/spring-boot-componentes-estereotipos/)
+
+6. [CONEXION A BASE DE DATOS](https://gustavopeiretti.com/spring-boot-database-conexion-config/)
+
+7. [INJECCION DE DEPENDENCIA](https://gustavopeiretti.com/spring-injection-dependencies/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
