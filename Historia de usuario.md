@@ -58,8 +58,7 @@ Todas las historias de usuario del rol cliente
 En este sprint se deberá terminar de desarrollar el proyecto y desplegarlo en la nube mediante la herramienta de su elección, además de hacer informe de retrospectiva
 
 
-
-#CONTENIDO DEL APLICATIVO
+# CONTENIDO DEL APLICATIVO
 
 
 ## Módulo de gestión de usuarios
