@@ -224,7 +224,7 @@ Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cua
 
 ![metodologia](metodologia.jpg)
 
-![Estructura](est node react.png)
+![Estructura](node_react.png)
 
 ![Arquitectura](arquitectura.png)
 
