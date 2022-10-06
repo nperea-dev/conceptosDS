@@ -220,4 +220,12 @@ Como usuario Dado Que me encuentro en área personal de mi cuenta Cuando requier
 Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cuando intente ingresar a la aplicación mediante una URL Entonces podré interactuar con la aplicación web
 
 
+## Graficos
+
+![metodologia](metodologia.jpg)
+
+![Estructura](est node react.png)
+
+![Arquitectura](arquitectura.png)
+
 
