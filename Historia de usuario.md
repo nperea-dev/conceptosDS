@@ -5,7 +5,7 @@
 #4. Graficos
 ***
 
-#1. SPRINTS Y SEMANAS 
+# SPRINTS Y SEMANAS 
 
 
 ## Sprint 1: Creación de un repositorio en Github  Semana (2)
@@ -62,8 +62,9 @@ Se deben desarrollar las historias de usuario pendientes del rol administrador
 Todas las historias de usuario del rol cliente
 En este sprint se deberá terminar de desarrollar el proyecto y desplegarlo en la nube mediante la herramienta de su elección, además de hacer informe de retrospectiva
 
+***
 
-#2. CONTENIDO DEL APLICATIVO
+# CONTENIDO DEL APLICATIVO
 
 
 ## Módulo de gestión de usuarios
@@ -87,10 +88,10 @@ Este módulo debe conectar con el módulo de inventario para que se actualicen l
 El sistema tendrá una interfaz para que el usuario pueda cargar y simular una pasarela u opción de pago para finalizar la venta. En este punto se debe tener en cuenta el registro de entrega de mercancías a domicilio o recogida en tienda.  
 
 
+***
 
 
-
-#3. HISTORIAS DE USUARIOS
+# HISTORIAS DE USUARIOS
 
 ### HU_001 
 Dada la herramienta en la nube “GitHub” Cuando requiera crear un lugar de almacenamiento de fuentes Entonces construiré un repositorio para almacenar las fuentes 
@@ -197,13 +198,62 @@ Como usuario Dado Que me encuentro en área personal de mi cuenta Cuando requier
 ### HU_033
 Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cuando intente ingresar a la aplicación mediante una URL Entonces podré interactuar con la aplicación web
 
+***
 
-#4. Graficos
+# Graficos
 
 ![metodologia](metodologia.jpg)
 
 ![Estructura](node_react.png)
 
 ![Arquitectura](arquitectura.png)
+
+
+<a name="top"></a>
+# Título de nuestro documento
+ 
+## Índice de contenidos
+* [Contenido 1](#item1)
+* [Contenido 2](#item2)
+* [Contenido 3](#item3)
+* [Contenido 4](#item4)
+ 
+Lorem ipsum dolor
+ 
+<a name="item1"></a>
+### Contenido 1
+ 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ 
+[Subir](#top)
+ 
+<a name="item2"></a>
+### Contenido 2
+ 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ 
+[Subir](#top)
+ 
+<a name="item3"></a>
+### Contenido 3
+ 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ 
+[Subir](#top)
+ 
+<a name="item4"></a>
+### Contenido 4
+ 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ 
+[Subir](#top)
 
 
