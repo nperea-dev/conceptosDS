@@ -2,9 +2,13 @@
 
 ## TEMAS:
 [SPRINTS Y SEMANAS.](#id1)
+
 [CONTENIDO DEL APLICATIVO.](#id2)
+
 [HISTORIAS DE USUARIOS.](#id3)
+
 [GRAFICOS.](#id4)
+
 ***
 
 <a name="id1"></a>
