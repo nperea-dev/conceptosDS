@@ -1,10 +1,13 @@
-﻿## TEMAS:
-1. SPRINTS Y SEMANAS.
-2. CONTENIDO DEL APLICATIVO.
-3. HISTORIAS DE USUARIOS.
-#4. Graficos
+﻿<a name="top"></a>
+
+## TEMAS:
+[SPRINTS Y SEMANAS.](#id1)
+[CONTENIDO DEL APLICATIVO.](#id2)
+[HISTORIAS DE USUARIOS.](#id3)
+[GRAFICOS.](#id4)
 ***
 
+<a name="id1"></a>
 # SPRINTS Y SEMANAS 
 
 
@@ -62,8 +65,9 @@ Se deben desarrollar las historias de usuario pendientes del rol administrador
 Todas las historias de usuario del rol cliente
 En este sprint se deberá terminar de desarrollar el proyecto y desplegarlo en la nube mediante la herramienta de su elección, además de hacer informe de retrospectiva
 
+[Subir](#top)
 ***
-
+<a name="id2"></a>
 # CONTENIDO DEL APLICATIVO
 
 
@@ -87,10 +91,11 @@ Este módulo debe conectar con el módulo de inventario para que se actualicen l
 
 El sistema tendrá una interfaz para que el usuario pueda cargar y simular una pasarela u opción de pago para finalizar la venta. En este punto se debe tener en cuenta el registro de entrega de mercancías a domicilio o recogida en tienda.  
 
+[Subir](#top)
 
 ***
 
-
+<a name="id3"></a>
 # HISTORIAS DE USUARIOS
 
 ### HU_001 
@@ -199,7 +204,7 @@ Como usuario Dado Que me encuentro en área personal de mi cuenta Cuando requier
 Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cuando intente ingresar a la aplicación mediante una URL Entonces podré interactuar con la aplicación web
 
 ***
-
+<a name="id4"></a>
 # Graficos
 
 ![metodologia](metodologia.jpg)
@@ -208,52 +213,5 @@ Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cua
 
 ![Arquitectura](arquitectura.png)
 
-
-<a name="top"></a>
-# Título de nuestro documento
- 
-## Índice de contenidos
-* [Contenido 1](#item1)
-* [Contenido 2](#item2)
-* [Contenido 3](#item3)
-* [Contenido 4](#item4)
- 
-Lorem ipsum dolor
- 
-<a name="item1"></a>
-### Contenido 1
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- 
 [Subir](#top)
- 
-<a name="item2"></a>
-### Contenido 2
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
- 
-[Subir](#top)
- 
-<a name="item3"></a>
-### Contenido 3
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
- 
-[Subir](#top)
- 
-<a name="item4"></a>
-### Contenido 4
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
- 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
- 
-[Subir](#top)
-
 
