@@ -1,6 +1,11 @@
-﻿
+﻿## TEMAS:
+1. SPRINTS Y SEMANAS.
+2. CONTENIDO DEL APLICATIVO.
+3. HISTORIAS DE USUARIOS.
+#4. Graficos
+***
 
-# SPRINTS Y SEMANAS 
+#1. SPRINTS Y SEMANAS 
 
 
 ## Sprint 1: Creación de un repositorio en Github  Semana (2)
@@ -58,7 +63,7 @@ Todas las historias de usuario del rol cliente
 En este sprint se deberá terminar de desarrollar el proyecto y desplegarlo en la nube mediante la herramienta de su elección, además de hacer informe de retrospectiva
 
 
-# CONTENIDO DEL APLICATIVO
+#2. CONTENIDO DEL APLICATIVO
 
 
 ## Módulo de gestión de usuarios
@@ -85,7 +90,7 @@ El sistema tendrá una interfaz para que el usuario pueda cargar y simular una p
 
 
 
-# HISTORIAS DE USUARIOS
+#3. HISTORIAS DE USUARIOS
 
 ### HU_001 
 Dada la herramienta en la nube “GitHub” Cuando requiera crear un lugar de almacenamiento de fuentes Entonces construiré un repositorio para almacenar las fuentes 
@@ -155,27 +160,11 @@ Como administrador Dado que estoy viendo la lista de los usuarios registrados en
 Como administrador Dado que estoy viendo la lista de los productos registrados en la plataforma Cuando requiera modificar los datos de un producto Entonces podré actualizar el estado del producto 
 
 ### HU_023 
-Como administrador
-Dado que estoy viendo la
-lista de los productos
-registrados en la plataforma
-Cuando requiera ingresar
-un nuevo producto
-Entonces podré ingresar
-todos los datos y stock de
-un producto
+Como administrador Dado que estoy viendo la lista de los productos registrados en la plataforma Cuando requiera ingresar un nuevo producto Entonces podré ingresar todos los datos y stock de un producto
 
 ### HU_024 
-Como administrador
-Dado que ingresé al sistema
-Cuando requiera actualizar
-el stock de un producto
-en plataforma
-Entonces podré ver la
-información de los productos
-registrados en la plataforma
-y actualizar la cantidad
-en stock
+Como administrador Dado que ingresé al sistema Cuando requiera actualizar el stock de un producto en plataforma Entonces podré ver la
+información de los productos registrados en la plataforma y actualizar la cantidad en stock
 
 ### HU_025 
 Como usuario Dado que voy a ingresar al sistema Entonces podré ingresar los datos de registro (incluyendo elegir el rol al que aspiro) Cuando necesite registrarme en el sistema 
@@ -209,7 +198,7 @@ Como usuario Dado Que me encuentro en área personal de mi cuenta Cuando requier
 Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cuando intente ingresar a la aplicación mediante una URL Entonces podré interactuar con la aplicación web
 
 
-## Graficos
+#4. Graficos
 
 ![metodologia](metodologia.jpg)
 
