@@ -202,9 +202,14 @@ Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cua
 <a name="id4"></a>
 # Graficos
 
+* **Metodología Scrum.**
 ![metodologia](metodologia.jpg)
 
+* **Estructura sugerida con node.**
+
 ![Estructura](node_react.png)
+
+* **Arquitectura del proyecto.**
 
 ![Arquitectura](arquitectura.png)
 
