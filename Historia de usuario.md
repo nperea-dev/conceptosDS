@@ -79,10 +79,10 @@ En este sprint se deberá terminar de desarrollar el proyecto y desplegarlo en l
 
 |SPRINT   |DETALLES| USER STORIES |fechas entrega|
 ---|---|---|---|
-|SPRINT 1 |Creacion de repositorio|HU_001, HU_002, HU_003, HU_004, HU_005, HU_006|OCT 15|
-|SPRINT 2 |Creacion de pipelines|HU_007, HU_011, HU_012, HU_013, HU014, HU_015, HU_016, HU_017|OCT 22|
-|SPRINT 3 |DB modelling (MongoDB)|HU_009, HU_010, HU_006, HU_006|SEP 5|
-|SPRINT 4 |Finalizacion|HU_018, HU_019, HU_020, HU_021, HU_022, HU_023, HU_024, HU_025, HU_026, HU_027, HU_028, HU_029, HU_030, HU_031, HU_032, HU_033|SEP 19|
+|SPRINT_1 |Creacion de repositorio|HU_001, HU_002, HU_003, HU_004, HU_005, HU_006|OCT 15|
+|SPRINT_2 |Creacion de pipelines|HU_007, HU_011, HU_012, HU_013, HU014, HU_015, HU_016, HU_017|OCT 22|
+|SPRINT_3 |DB modelling (MongoDB)|HU_009, HU_010, HU_006, HU_006|SEP 5|
+|SPRINT_4 |Finalizacion|HU_018, HU_019, HU_020, HU_021, HU_022, HU_023, HU_024, HU_025, HU_026, HU_027, HU_028, HU_029, HU_030, HU_031, HU_032, HU_033|SEP 19|
 
 [Subir](#top)
 
