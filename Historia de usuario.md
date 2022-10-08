@@ -3,11 +3,13 @@
 ## TEMAS:
 [SPRINTS Y SEMANAS.](#id1)
 
-[CONTENIDO DEL APLICATIVO.](#id2)
+[TABLA SPRINTS VS HISTORIAS DE USUARIOS](#id11)
 
 [HISTORIAS DE USUARIOS.](#id3)
 
 [GRAFICOS.](#id4)
+
+[CONTENIDO DEL APLICATIVO.](#id2)
 
 ***
 
@@ -71,33 +73,20 @@ En este sprint se deberá terminar de desarrollar el proyecto y desplegarlo en l
 
 [Subir](#top)
 ***
-<a name="id2"></a>
-# CONTENIDO DEL APLICATIVO
 
+<a name="id11"></a>
+# TABLA SPRINTS VS HISTORIAS DE USUARIOS
 
-## Módulo de gestión de usuarios
-* Gestión de ingreso al sistema de información. El sistema tendrá las interfaces gráficas para el registro e ingreso a la aplicación. Para el registro se deberá ingresar el correo, la identificación, el nombre completo y la contraseña, y quedará registrado en el sistema por defecto con el estado de “Pendiente”. Para la autenticación, el usuario deberá ingresar el correo y la contraseña.
-
-* Gestión de estado de usuarios. El sistema tendrá una interfaz gráfica para que el administrador pueda ver y cambiar el estado de los registrados como administrador, y otros roles (Pendiente/Autorizado/No autorizado). 
-
-* Gestión de perfil. El sistema tendrá una interfaz gráfica para que el usuario, independientemente del rol, pueda actualizar los datos personales que ingresó cuando se registró (Incluyendo la contraseña).
-
-## Módulo de inventario
-
-El sistema tendrá una interfaz gráfica para que el (o los) administrador pueda registrar productos nuevos, listar y ver los detalles de los productos. El (o los) otro rol tendrá la opción que lo direccione a la interfaz de stock disponible del producto.
-
-
-## Módulo de ventas
-
-Este módulo debe conectar con el módulo de inventario para que se actualicen los saldos de productos en bodega con cada venta. El sistema tendrá una interfaz para que los usuarios del sistema puedan seleccionar los productos a llevar y estos se carguen a un carrito y muestre el valor a pagar. 
-
-## Módulo de pagos
-
-El sistema tendrá una interfaz para que el usuario pueda cargar y simular una pasarela u opción de pago para finalizar la venta. En este punto se debe tener en cuenta el registro de entrega de mercancías a domicilio o recogida en tienda.  
+|SPRINT|DETALLES| USER STORIES |fechas entrega|
+---|---|---|---|
+|SPRINT1|Creacion de repositorio|HU_001, HU_002, HU_003, HU_004, HU_005, HU_006|OCT 15|
+SPRINT 2|Creacion de pipelines|HU_007, HU_011, HU_012, HU_013, HU014, HU_015, HU_016, HU_017|OCT 22|
+SPRINT 3|DB modelling (MongoDB)|HU_009, HU_010, HU_006, HU_006|SEP 5|
+SPRINT 4|Finalizacion|HU_018, HU_019, HU_020, HU_021, HU_022, HU_023, HU_024, HU_025, HU_026, HU_027, HU_028, HU_029, HU_030, HU_031, HU_032, HU_033|SEP 19|
 
 [Subir](#top)
 
-***
+****
 
 <a name="id3"></a>
 # HISTORIAS DE USUARIOS
@@ -208,6 +197,7 @@ Como usuario Dado Que me encuentro en área personal de mi cuenta Cuando requier
 Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cuando intente ingresar a la aplicación mediante una URL Entonces podré interactuar con la aplicación web
 
 [Subir](#top)
+
 ***
 <a name="id4"></a>
 # Graficos
@@ -219,4 +209,33 @@ Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cua
 ![Arquitectura](arquitectura.png)
 
 [Subir](#top)
+****
+
+<a name="id2"></a>
+# CONTENIDO DEL APLICATIVO
+
+
+## Módulo de gestión de usuarios
+* Gestión de ingreso al sistema de información. El sistema tendrá las interfaces gráficas para el registro e ingreso a la aplicación. Para el registro se deberá ingresar el correo, la identificación, el nombre completo y la contraseña, y quedará registrado en el sistema por defecto con el estado de “Pendiente”. Para la autenticación, el usuario deberá ingresar el correo y la contraseña.
+
+* Gestión de estado de usuarios. El sistema tendrá una interfaz gráfica para que el administrador pueda ver y cambiar el estado de los registrados como administrador, y otros roles (Pendiente/Autorizado/No autorizado). 
+
+* Gestión de perfil. El sistema tendrá una interfaz gráfica para que el usuario, independientemente del rol, pueda actualizar los datos personales que ingresó cuando se registró (Incluyendo la contraseña).
+
+## Módulo de inventario
+
+El sistema tendrá una interfaz gráfica para que el (o los) administrador pueda registrar productos nuevos, listar y ver los detalles de los productos. El (o los) otro rol tendrá la opción que lo direccione a la interfaz de stock disponible del producto.
+
+
+## Módulo de ventas
+
+Este módulo debe conectar con el módulo de inventario para que se actualicen los saldos de productos en bodega con cada venta. El sistema tendrá una interfaz para que los usuarios del sistema puedan seleccionar los productos a llevar y estos se carguen a un carrito y muestre el valor a pagar. 
+
+## Módulo de pagos
+
+El sistema tendrá una interfaz para que el usuario pueda cargar y simular una pasarela u opción de pago para finalizar la venta. En este punto se debe tener en cuenta el registro de entrega de mercancías a domicilio o recogida en tienda.  
+
+[Subir](#top)
+
+***
 
