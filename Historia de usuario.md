@@ -203,6 +203,7 @@ Como usuario Dado que quiero ingresar a la aplicación mediante un navegador Cua
 # Graficos
 
 * **Metodología Scrum.**
+
 ![metodologia](metodologia.jpg)
 
 * **Estructura sugerida con node.**
