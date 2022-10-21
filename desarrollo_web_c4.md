@@ -30,11 +30,11 @@ Identificar la estructura de trabajo de la librería **React** para JavaScript e
 
 Construir el **FronEnd** de una aplicación web usando JavaScript y React bajo el patrón SPA.
 
-[introducion REAct](https://youtu.be/ZnTghCuXZ7Q)
+[introducion React](https://youtu.be/ZnTghCuXZ7Q)
 
 [React parte 2](https://youtu.be/g69goDFDp0o)
 
-[Paso a paso par crear una ReactApp](https://youtu.be/g69goDFDp0ohttps://github.com/nperea75-gh/conceptosDS/blob/6e8fc4bfb015e7e3d707eac021b08f01301323d6/Primer_manual_React.pdf)
+[Paso a paso par crear una ReactApp](https://github.com/nperea75-gh/conceptosDS/blob/6e8fc4bfb015e7e3d707eac021b08f01301323d6/Primer_manual_React.pdf)
 
 
 
