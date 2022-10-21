@@ -34,6 +34,8 @@ Construir el **FronEnd** de una aplicación web usando JavaScript y React bajo e
 
 [React parte 2](https://youtu.be/g69goDFDp0o)
 
+[Paso a paso par crear una ReactApp](https://youtu.be/g69goDFDp0ohttps://github.com/nperea75-gh/conceptosDS/blob/6e8fc4bfb015e7e3d707eac021b08f01301323d6/Primer_manual_React.pdf)
+
 
 
 ### **lecturas interesante **
